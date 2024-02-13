@@ -1,4 +1,4 @@
-# ADR BOT
+# RK BOT
 
 ## Deploy To Heroku
 
@@ -10,8 +10,8 @@
 
 If you have any questions or concerns, feel free to contact me via Telegram:
 
-[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://telegram.dog/Adrenalinators)
-[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram)](https://telegram.dog/Adrenalinators)
+[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://telegram.dog/RAssociation)
+[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram)](https://telegram.dog/RSupportChat)
 
 ### .env
 ```sh
